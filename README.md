@@ -15,7 +15,7 @@ This tutorial assumes you have a local Node.js development environment set up on
 3. Choice of Database (MySQL/MongoDB/PostgreSQL/SQLite)
 4. Choice of IDE/Editor
 
-Fork this repository, and clone your fork locally. All submissions have to be made as a pull request against this repository.
+Fork this repository, and clone your fork locally. Your submission should include the URL of your Git repository. It should have public read permissions or be otherwise shared with us.
 
 ## Requirements
 

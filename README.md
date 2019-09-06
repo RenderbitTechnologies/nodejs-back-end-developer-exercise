@@ -15,7 +15,7 @@ This tutorial assumes you have a local Node.js development environment set up on
 3. Choice of Database (MySQL/MongoDB/PostgreSQL/SQLite)
 4. Choice of IDE/Editor
 
-Fork this repository, and clone your fork locally. Your submission should include the URL of your Git repository. It should have public read permissions or be otherwise shared with us.
+Fork this repository, and clone your fork locally. Your submission should include the URL of your Git repository. It should have public read permissions or be otherwise shared with us directly.
 
 ## Requirements
 
@@ -41,7 +41,7 @@ You can use any front-end templating framework (Pug/Jade/Handlebars/Hogan/EJS) o
 
 ### Libraries & Frameworks
 
-You are free to use any libraries, frameworks & tools which you think will be useful to build this application. We recommend going with [Angular](https://angular.io/) or [React](https://reactjs.org/). No credits are deducted for use of libraries.
+You are free to use any libraries, frameworks & tools which you think will be useful to build this application. We recommend going with [Angular](https://angular.io/) or [React](https://reactjs.org/). No credits are deducted for use of libraries. You can use either server-side or client-side routing for the application.
 
 ### Extra Credits
 
